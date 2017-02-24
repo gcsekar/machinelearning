@@ -655,11 +655,11 @@ pred.svm  <- predict(fit.svm, testing)
 
 ##Selecting the best model
 
-**Graph showing the accuracies the models**
+**Graph showing the accuracies of the models**
 
 ![](FinalExercise_files/figure-html/unnamed-chunk-13-1.png)<!-- -->
 
-**Summary of various models accuracy and Kappa**
+**Summary of various models' accuracy and Kappa**
 
 ```
 ## 
